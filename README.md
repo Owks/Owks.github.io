@@ -1,8 +1,7 @@
 ## Welcome to Owks Resell
 
-This Website is dedicated to the "HypeBeasts" out there who want to buy legit, hight quality designer clothes.
+**This Website is dedicated to the "HypeBeasts" out there who want to buy legit, hight quality designer clothes.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
